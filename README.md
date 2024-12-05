@@ -1,0 +1,1 @@
+# staticsite-starter-template
